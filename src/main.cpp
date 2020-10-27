@@ -1,0 +1,10 @@
+// hello.cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout << "Hello, world!\n";
+  getchar();
+  return 0;
+}
